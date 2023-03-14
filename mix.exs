@@ -22,7 +22,9 @@ defmodule Linex.MixProject do
   end
 
   defp deps do
-    []
+    [
+      {:ex_doc, "~> 0.27", only: :dev, runtime: false}
+    ]
   end
 
   def description() do
