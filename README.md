@@ -1,6 +1,6 @@
-# Linex
+# LINEx
 
-**TODO: Add description**
+The LINE API wrapper. (WIP: Please note that this is a placeholder package)
 
 ## Installation
 
@@ -19,3 +19,5 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/linex>.
 
+## License
+The package is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
